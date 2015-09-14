@@ -1,0 +1,15 @@
+/*
+ * Project: NameReversal.java
+ * Description: An investigation into "for" loops.
+ * Name: Juyoung Lee
+ * Date: Sept 14, 2015
+ */
+
+public class NameReversal{
+  
+  public.static void main( String[] args) {
+    
+    
+  } // end method
+  
+} // end class
